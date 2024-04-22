@@ -1,0 +1,39 @@
+{
+  "spritemap": {
+    "sfx_01": {
+      "start": "3.015341",
+      "end": "5.754467",
+      "loop": false
+    },
+    "respawned": {
+      "start": "6.606128",
+      "end": "7.572878",
+      "loop": false
+    },
+    "battery_low": {
+      "start": "8.424539",
+      "end": "9.621469",
+      "loop": false
+    },
+    "interacting": {
+      "start": "9.943719",
+      "end": "12.337577",
+      "loop": false
+    },
+    "battery_drained": {
+      "start": "17.424526",
+      "end": "18.690508",
+      "loop": false
+    },
+    "failed": {
+      "start": "24.583082",
+      "end": "25.181547",
+      "loop": false
+    },
+    "recharging": {
+      "start": "27.759548",
+      "end": "30.521692",
+      "loop": false
+    }
+  }
+}
