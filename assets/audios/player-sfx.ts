@@ -1,0 +1,1 @@
+enum CONSTANTS {	STEP_1 = "step-1",	STEP_2 = "step-2",	STEP_3 = "step-3",	STEP_4 = "step-4",	RESPAWN = "respawn",	BATTERY_CHARGED = "battery-charged",	CLICK = "click",	SHIFT = "shift",	BATTERY_LOW = "battery-low",	DEATH = "death",	POWER_UP = "power-up",}export default CONSTANTS;
